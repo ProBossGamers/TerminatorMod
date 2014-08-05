@@ -1,0 +1,16 @@
+*.class
+*.iml
+*.ipr
+*.iws
+*.txt
+.idea/
+.gradle/
+.classpath
+.project
+.settings/
+build/
+minecraft/
+out/
+/bin
+common/
+TurtleMod_resources
