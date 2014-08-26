@@ -1,3 +1,5 @@
 TerminatorMod
 =============
-By DeathJusty and Ry_dog101
+Programmer: Ry_dog101
+Modelers: DeathJusty, Seth Kasten
+Textures: DeathJusty
