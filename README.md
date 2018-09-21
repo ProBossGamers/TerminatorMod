@@ -1,9 +1,9 @@
 TerminatorMod
 
 
-Programmer: N/A
-Modelers: LadyHaley
-Textures: LadyHaley
+Programmer: N/A - 
+Modelers: LadyHaley - 
+Textures: LadyHaley - 
 
 
 This mod aims to add Terminators into minecraft.
