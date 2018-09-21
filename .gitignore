@@ -1,16 +1,22 @@
-*.class
-*.iml
-*.ipr
-*.iws
-*.txt
-.idea/
-.gradle/
+# eclipse
+bin
+*.launch
+.settings
+.metadata
 .classpath
 .project
-.settings/
-build/
-minecraft/
-out/
-/bin
-common/
-TurtleMod_resources
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
